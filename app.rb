@@ -1,7 +1,7 @@
 class App < Sinatra::Base
 
 
-def get '/' do
+ get '/' do
 
   puts "Hello, World!"
 
